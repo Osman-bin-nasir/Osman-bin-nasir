@@ -31,17 +31,17 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osman-bin-nasir&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=osman-bin-nasir&theme=tokyonight&hide_border=false" width="48%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osman-bin-nasir&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=osman-bin-nasir&theme=tokyonight&hide_border=false&v=1" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://osman-bin-nasir.github.io/Portfolio/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osman-bin-nasir)   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osmanbinnasir18@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://osman-bin-nasir.github.io/Portfolio/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osman-bin-nasir)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 ---
 
