@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osman Bin Nasir</h1>
 <h3 align="center">CSE Student | Full-Stack Web Developer | Tech Enthusiast 🚀</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🌱 I’m currently learning **Next.js, Databases, and Advanced Web Development**
 - 💻 Most of my work is available on [my portfolio](https://osman-bin-nasir.github.io/Portfolio/)
@@ -31,16 +31,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osman-bin-nasir&show_icons=true&theme=tokyonight" alt="stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osman-bin-nasir&theme=tokyonight" alt="streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=osman-bin-nasir&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=osman-bin-nasir&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osman-bin-nasir)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://osman-bin-nasir.github.io/Portfolio/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://osman-bin-nasir.github.io/Portfolio/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osman-bin-nasir)   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osmanbinnasir18@gmail.com)
 
 ---
