@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 - 🎓 **Computer Science Engineering Student** passionate about technology
-- 💻 Most of my work is available on [my portfolio](https://osman-bin-nasir.github.io/Portfolio/)💻 Most of my work is available on [my portfolio](https://osman-bin-nasir.github.io/Portfolio/)
+- 💻 Most of my work is available on [my portfolio](https://osman-bin-nasir.github.io/Portfolio/)
 - 🧩 **Fun fact**: I love solving Rubik's cubes & creating developer tools!
 - 📍 **Location**: Open to remote opportunities worldwide
 
