@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/followers/osman-bin-nasir?style=for-the-badge&color=blue" alt="Followers"/>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 🚀 About Me
 - 🎓 **Computer Science Engineering Student** passionate about technology
